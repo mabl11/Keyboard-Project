@@ -1,4 +1,3 @@
 Tastatur Projekt GBC
 --------------------
-3. Lehrjahr SEM1: HW
-3. Lehrjahr SEM2: SW
+3. Lehrjahr SEM1: HW; SEM2: SW
